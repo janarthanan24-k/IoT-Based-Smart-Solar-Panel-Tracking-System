@@ -1,9 +1,5 @@
 # ☀️ IoT-Based Smart Solar Panel Tracking System
 
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue.svg)
-![Framework](https://img.shields.io/badge/Framework-Arduino%20IDE-00979D.svg)
-![IoT](https://img.shields.io/badge/IoT-Blynk-11BF71.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📖 Introduction
 
